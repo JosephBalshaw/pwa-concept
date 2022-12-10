@@ -29,7 +29,9 @@ For any further questions that are not addressed in  this README please find my 
 
 ### email: jbbalshaw@gmail.com
 ### github: 
+### deployed: https://quite-pwa-concept.herokuapp.com/
 
 ## ScreenShots
 ![](./assets/Online_mode.jpg)
 ![](./assets/Offline_mode.jpg)
+
